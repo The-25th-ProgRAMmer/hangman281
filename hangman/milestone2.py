@@ -10,6 +10,6 @@ else:
     print("Oops! That is not a valid input.")
 
 
-#print(new_list)
-print(letter_guess)
+print(random_fruit)
+#print(letter_guess)
 #print(word)
