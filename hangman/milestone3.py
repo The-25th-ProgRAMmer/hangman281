@@ -22,4 +22,4 @@ def ask_for_input(guess):
             print("Invalid letter. Please, enter a single alphabetical character.")
 
 
-ask_for_input("A")
+ask_for_input(input(" "))
